@@ -21,7 +21,7 @@ NoSQL DBMS이라고도 분류되며 Memcached와 같은 In memory로도 분리�
 내가 사용하고자 하는 부분은 레디스의 Hash 및 GEO 데이터 모델을 사용하려고한다.
 JWT토큰 인증을 Redis 통해 처리하고 위치기반의 작업을 진행하고자 한다.
 
-![그림](/img.jpg)
+![그림](/Redis/img.jpg)
 
 Redis 활용 방법
 1. 회원 검증: Redis 회원 조회시 존재하지 않을 경우 DB에서 데이터를 가져온 후 Redis에 저장
