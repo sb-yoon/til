@@ -4,11 +4,14 @@
 
 # 레디스(Redis)란?
 Remote Dictionary System의 약자로 메모리기반의 Key/Value Store이며,
+
 (List, Set, Hash 등) 다양한 자료구조의 데이터모델을 지원하고 있다.
+
 NoSQL DBMS이라고도 분류되며 Memcached와 같은 In memory로도 분리되기도 한다.
 
 # 레디스(Redis) 특징?
 레디스가 주목받는 이유로는 입/출력이 빠른 메모리, 단순한 구조의 Key/Value, 다양한 API지원 등이 있고
+
 특징으로는
 1. 처리속도가 빠르다.
 2. 레디스 메모리가 날라가도 데이터를 복구할 수 있다.
